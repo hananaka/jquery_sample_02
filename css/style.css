@@ -1,0 +1,17 @@
+body {
+  position: relative;
+  background-color: #333;
+  color: silver;
+  text-align: center;
+}
+
+.fade {
+  width: 160px;
+  margin: 20px;
+}
+
+#move {
+  position: absolute;
+  top: 400px;
+  left: calc(50% - 100px);
+}
